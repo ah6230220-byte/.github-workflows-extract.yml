@@ -1,1 +1,2 @@
 python-telegram-bot[rate-limiter]==22.5
+pip install python-telegram-bot==22.5
